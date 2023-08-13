@@ -36,4 +36,4 @@
 * [Voice Morphing](https://svrajcode.blogspot.com/2023/03/voice-morphing.html)
 * [Pi Day](https://svrajcode.blogspot.com/2023/03/pi-day.html)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=svrajj&" alt="svrajj" /></p>
+
