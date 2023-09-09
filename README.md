@@ -37,3 +37,6 @@
 * [Pi Day](https://svrajcode.blogspot.com/2023/03/pi-day.html)
 
 
+# Contributions
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=Svrajj&theme=tokyonight-duo&date_format=n%2Fj%5B%2FY%5D&hide_current_streak=true&hide_longest_streak=true)](https://git.io/streak-stats)
