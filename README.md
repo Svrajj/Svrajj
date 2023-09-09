@@ -46,4 +46,3 @@
 [![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Svrajj&theme=tokyonight)](https://github.com/Svrajj/github-readme-stats)
 
 
-![snake gif](https://github.com/Svrajj/Svrajj/blob/output/github-contribution-grid-snake.gif)
