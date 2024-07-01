@@ -13,6 +13,9 @@
 
 - ⚡ Fun fact **I know a bit of frontend too....**
 
+
+<img align="center" src="https://user-images.githubusercontent.com/74038190/216120974-24a76b31-7f39-41f1-a38f-b3c1377cc612.png" width="300">
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/svraj/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/svraj/" height="30" width="40" /></a>
@@ -44,5 +47,9 @@
 # Languages
 
 [![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Svrajj&theme=tokyonight)](https://github.com/Svrajj/github-readme-stats)
+<br><br>
+
+
+<img align="center" src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif" width="400">
 
 
